@@ -1,5 +1,7 @@
 # Retail-CV
 
+This project introduces an Automated Supermarket Self-Checkout System leveraging Convolutional Neural Networks (CNNs) and Computer Vision (CV) techniques, specifically the Single Shot Multibox Detector (SSD) with MobileNet architecture. The system aims to automate the process of product recognition and billing, eliminating the need for manual scanning by store clerks or customers.
+
 # For Training
 
 Follow nesto_cv.ipynb file
